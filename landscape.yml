@@ -190,6 +190,12 @@ landscape:
             repo_url: 'https://github.com/guerilla-di/tracksperanto'
             logo: 'http://guerilla-di.org/images/tracksperanto.svg'
             crunchbase: 'https://www.crunchbase.com/organization/guerilla-di'
+          - item:
+            name: Krita
+            homepage_url: 'https://www.krita.org'
+            repo_url: 'https://github.com/KDE/krita'
+            logo: 'https://invent.kde.org/kde/krita/blob/master/krita/pics/app/sc-apps-krita.svgz'
+            crunchbase: 'https://www.crunchbase.com/organization/stichting-krita-foundation'
   - category:
     name: Assets and Workflow
     subcategories:
